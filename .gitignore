@@ -3,6 +3,7 @@
 
 # Ignore results folder
 Results/
+Figures/
 
 # Optional MATLAB files
 *.asv
