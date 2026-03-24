@@ -1,0 +1,10 @@
+# Ignore MATLAB data files
+*.mat
+
+# Ignore results folder
+Results/
+
+# Optional MATLAB files
+*.asv
+*.fig
+*.log
